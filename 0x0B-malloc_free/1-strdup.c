@@ -2,8 +2,8 @@
 #include<stdlib.h>
 
 /**
- * *_strdup -this function copies a string
- * @str: target string to be copied
+ * *_strdup -this copies a string
+ * @str: the target string to be copied
  *
  * Return: pointer to the copied string
  */
