@@ -1,7 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "3-calc.h"
 
 /**
- * op_add - this fucntion calculates the sum of two integers
+ * op_add - this function calculates the sum of two integers
  * @a: first integer
  * @b: second integer
  *
